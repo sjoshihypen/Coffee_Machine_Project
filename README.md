@@ -6,4 +6,4 @@ This project allows you to better understand the basic OOP, its main concepts su
 Practice working with methods, challenge yourself with loops and conditions, and get more confident with OOP.
 
 
-                  ![image](https://user-images.githubusercontent.com/79572922/191541524-6e024ddd-11e9-4e57-a39b-f26fdc56f302.png)
+                   ![image](https://user-images.githubusercontent.com/79572922/191541524-6e024ddd-11e9-4e57-a39b-f26fdc56f302.png)
